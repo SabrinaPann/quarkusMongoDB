@@ -1,0 +1,5 @@
+org\acme\mongodb\codec\FruitCodecProvider.class
+org\acme\mongodb\FruitService.class
+org\acme\mongodb\codec\FruitCodec.class
+org\acme\mongodb\Fruit.class
+org\acme\mongodb\FruitResource.class
